@@ -1,3 +1,4 @@
+
 * {
   box-sizing: border-box;
 }
@@ -5,14 +6,14 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #ffabf5
-  color:#bf99f0
+  background: #fff0f8;
+  color: #49394f;
   line-height: 1.6;
 }
 
 header {
-  background: #17365d;
-  color: pink;
+  background: #e8c5f0;
+  color: #673875;
   text-align: center;
   padding: 35px 15px;
 }
@@ -28,10 +29,11 @@ section {
   margin-bottom: 18px;
   padding: 20px;
   border-radius: 10px;
+  border: 1px solid #edcfee;
 }
 
 h2 {
-  color: #1f5b8f;
+  color: #a052a0;
 }
 
 img {
@@ -44,4 +46,7 @@ img {
 footer {
   text-align: center;
   padding: 18px;
-  background: #dbe5ef;
+  background: #ead9ef;
+}
+
+
