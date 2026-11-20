@@ -12,7 +12,7 @@ body {
 
 header {
   background: #17365d;
-  color: white;
+  color: pink;
   text-align: center;
   padding: 35px 15px;
 }
